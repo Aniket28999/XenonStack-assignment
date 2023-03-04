@@ -1,5 +1,7 @@
 # XenonStack-assignment
+
 **Problem Statement:**
+
 ```
 1. Design Minimum 3 Pages as per Theme of your choice.
 2. Create a Login and Logout flow which will be connected with Database.
@@ -11,15 +13,16 @@
 
 **Solution:**
 
-I Choose the *"Car Selling"* Theme of my project. So I will be creating a  webpage for selling cars.
+I Choose the _"Car Selling"_ Theme of my project. So I will be creating a webpage for selling cars.
 
-**Project Title:**   **CAR'S MARKET**
+**Project Title:** **CARS MARKET**
 
 **Project Description:**
 
-In this project of mine, For Frontend HTML, CSS, JavaScript have been used. For Backend Nodejs, Express have been used and for Database MongoDB has been used. 
+In this project of mine, For Frontend HTML, CSS, JavaScript have been used. For Backend Nodejs, Express have been used and for Database MongoDB has been used.
 
 When you open the webpage you will see two options:
+
 1. Register (First you'll have to register yourself to login to the webpage.)
 2. Login (After register yourself, you can access the webpage for further information.)
 
