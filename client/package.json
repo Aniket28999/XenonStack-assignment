@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://aniket28999.github.io/XenonStack-assignment",
+  "homepage": "https://xenonstackfe.onrender.com",
   "eslintConfig": {
     "extends": [
       "react-app",
