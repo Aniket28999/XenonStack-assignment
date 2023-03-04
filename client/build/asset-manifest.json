@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/XenonStack-assignment/static/css/main.dfbeec97.css",
+    "main.js": "/XenonStack-assignment/static/js/main.f68cb9be.js",
+    "static/media/mercedes.jpeg": "/XenonStack-assignment/static/media/mercedes.001883682894fe6e0d51.jpeg",
+    "static/media/bcf.jpeg": "/XenonStack-assignment/static/media/bcf.03318c19ef2eb292e232.jpeg",
+    "static/media/triber.jpeg": "/XenonStack-assignment/static/media/triber.5a681010236cd297866a.jpeg",
+    "static/media/background.jpeg": "/XenonStack-assignment/static/media/background.62a160de53f77fd49822.jpeg",
+    "static/media/scorpio.jpeg": "/XenonStack-assignment/static/media/scorpio.1700e81b20cc898499d2.jpeg",
+    "static/media/taigun.jpeg": "/XenonStack-assignment/static/media/taigun.553b7bda3b767dc8c443.jpeg",
+    "static/media/hondaCivic.jpeg": "/XenonStack-assignment/static/media/hondaCivic.6dcd1caf90c9a4055b50.jpeg",
+    "static/media/login-banner.svg": "/XenonStack-assignment/static/media/login-banner.1b9913c061e7a4db2d231857892e1ea9.svg",
+    "index.html": "/XenonStack-assignment/index.html",
+    "main.dfbeec97.css.map": "/XenonStack-assignment/static/css/main.dfbeec97.css.map",
+    "main.f68cb9be.js.map": "/XenonStack-assignment/static/js/main.f68cb9be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbeec97.css",
+    "static/js/main.f68cb9be.js"
+  ]
+}

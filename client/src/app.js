@@ -91,7 +91,7 @@ const router = createBrowserRouter([
       </div>
     ),
   },
-]);
+], {basename:"https://aniket28999.github.io/XenonStack-assignment"});
 
 function App() {
   return (
