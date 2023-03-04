@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b0d64d78.css",
+    "main.js": "/my-app/static/js/main.1214a14e.js",
+    "static/media/mercedes.jpeg": "/my-app/static/media/mercedes.001883682894fe6e0d51.jpeg",
+    "static/media/bcf.jpeg": "/my-app/static/media/bcf.03318c19ef2eb292e232.jpeg",
+    "static/media/triber.jpeg": "/my-app/static/media/triber.5a681010236cd297866a.jpeg",
+    "static/media/background.jpeg": "/my-app/static/media/background.62a160de53f77fd49822.jpeg",
+    "static/media/scorpio.jpeg": "/my-app/static/media/scorpio.1700e81b20cc898499d2.jpeg",
+    "static/media/taigun.jpeg": "/my-app/static/media/taigun.553b7bda3b767dc8c443.jpeg",
+    "static/media/hondaCivic.jpeg": "/my-app/static/media/hondaCivic.6dcd1caf90c9a4055b50.jpeg",
+    "static/media/login-banner.svg": "/my-app/static/media/login-banner.1b9913c061e7a4db2d231857892e1ea9.svg",
+    "index.html": "/my-app/index.html",
+    "main.b0d64d78.css.map": "/my-app/static/css/main.b0d64d78.css.map",
+    "main.1214a14e.js.map": "/my-app/static/js/main.1214a14e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d64d78.css",
+    "static/js/main.1214a14e.js"
+  ]
+}
