@@ -29,6 +29,9 @@ The webpage was being developed with the help of MERN stack:
 - React for frontend
 - Express, Nodejs for backend
 - MongoDB for database (Mongo ATLAS)
+- JWT tokens for authentication
+- Nodemailer api for Forget Password
+- Schema in Database are: signUp Schema for Registration and contactUs Schema for ContactUS
 
 
  When you open the webpage you will get this:
@@ -42,8 +45,6 @@ Then you have to choose one of these option:
 - Login (After register yourself, you can access the webpage for further information.)![WhatsApp Image 2023-03-06 at 12 17 35 AM](https://user-images.githubusercontent.com/90772098/222979836-ceccea50-38f5-4838-a042-703232e40218.jpeg)
 
 - In case, you ever forget your password, "Forget Password" option is also given in the webpage. You just have to enter your email used for registration, then yo'll get mail with a link to change your password.![WhatsApp Image 2023-03-06 at 12 29 21 AM](https://user-images.githubusercontent.com/90772098/222980334-72a07e22-a2c7-43fe-99aa-46800744c532.jpeg)
-
-
 
 
 After login, you'll see little bit about the cars which are in Queue for sale. There will be option of Contact US and Logout too.
